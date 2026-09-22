@@ -1,0 +1,15 @@
+h2 {
+  color: red;
+}
+p {
+  color: cyan;
+}
+.special-text {
+  color: blue;
+}
+#title {
+  color: chocolate;
+}
+span{
+    background-color: palevioletred;
+}
