@@ -1,0 +1,26 @@
+div{
+    background-color: pink;
+    padding: 24px;
+    width: 400px;
+    height: 200px;
+}
+h1{
+    color: yellow;
+    padding: 8px;
+    background-color: blueviolet;
+    
+   
+}
+p{
+    color: green;
+    background-color: beige;
+    padding: 8px;
+    padding-left: 16px;
+   
+}
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}

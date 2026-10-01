@@ -1,0 +1,30 @@
+/* {
+    margin: 0px;
+    padding: 0px;
+    
+} */
+/* div{
+    width: 88.7%;
+    height: 41.8vw;
+    padding: 80px;
+    background-color: lime;
+} */
+/* div{
+    width: 88.7vw;
+    height: 41.8vw;
+    padding: 80px;
+    background-color: lime;
+} */
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+} 
+div{
+    width: 100vw;
+    height: 99vh;
+    padding: 80px;
+    background-color: lime;
+}

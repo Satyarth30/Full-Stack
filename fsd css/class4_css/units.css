@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.item1{
+    height: 200px;
+    width: 400px;
+  background-color: orange;
+}
+
+.item2{
+    height: 200px;
+    width: 60%;
+  background-color: blue;
+}
+
+.item3{ 
+    height: 200px;
+    width: 60vw;
+    background-color: green;
+}
+
+body{
+    width: 720px;
+}
